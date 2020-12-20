@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class MoveCapsule : MonoBehaviour
 {
-    public float force = 1000;
-
+    public float force = 4000;
+  
 
     private void Start()
     {
@@ -13,10 +13,12 @@ public class MoveCapsule : MonoBehaviour
     }
     void Update()
     {
+    
 
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetKeyDown(KeyCode.Mouse0))
             {
-                GetComponent<Rigidbody>().AddForce(transform.forward * force);
+ 
+                GetComponent<Rigidbody>().AddForce(transform.TransformDirection(Vector3.forward) * force);
             }
 
         
