@@ -3,7 +3,31 @@ guid: 3c0c8c700c21049439a193b5bf15df32
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - quille1: {fileID: 6626299112549562992, guid: 589c4bb49d700ca40aea5b1b08cc30b7,
+      type: 3}
+  - quille2: {fileID: 7705255680645493362, guid: ded1e3e0cbf65d6499d15115cec377f5,
+      type: 3}
+  - quille3: {fileID: 807097843177465029, guid: ff9746eae6c497a4e87b097ff1ceadb0,
+      type: 3}
+  - quille4: {fileID: 8973839648001734671, guid: 6506dc2bdb3c4254ab6a9487c9ddea89,
+      type: 3}
+  - quille5: {fileID: 1834692059614128785, guid: 15fe43054e7df6c4594fc22c308157ba,
+      type: 3}
+  - quille6: {fileID: 6793718194692324563, guid: ed32ac03a71b66a4b861f1f621b74af2,
+      type: 3}
+  - quille7: {fileID: 2463213401270678583, guid: 260199d1849e9c547bad05f32bbb77ca,
+      type: 3}
+  - quille8: {fileID: 2140220564447142002, guid: 96c68ff7a2b9ad14786a15769f70d598,
+      type: 3}
+  - quille9: {fileID: 8533102023632210723, guid: 7331aaa6ca8a22242a64638d27fc5745,
+      type: 3}
+  - quille10: {fileID: 6380015454810794220, guid: 5078a7d2f46741d43bc38a4cac5c99ee,
+      type: 3}
+  - quille11: {fileID: 8070372880903597023, guid: e1c3e4eb5c794514ea4d122b1ae7d245,
+      type: 3}
+  - quille12: {fileID: 237265563393817353, guid: 7212d8de6d5bf9845ae6b76763475faa,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
